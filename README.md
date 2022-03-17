@@ -7,4 +7,4 @@ Insert the code and use your new image-carousel-component! :)
 
 
 # Info
-You need Tailwind!
+Written with TypeScript and Tailwind!
