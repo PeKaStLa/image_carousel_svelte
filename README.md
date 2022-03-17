@@ -4,3 +4,7 @@ An image-carousel with a automatic-timer. Also manuel going forward and backward
 # Getting-started
 Just create a new image-carousel-component in your svelte or svelte-kit project.
 Insert the code and use your new image-carousel-component! :) 
+
+
+# Info
+You need Tailwind!
